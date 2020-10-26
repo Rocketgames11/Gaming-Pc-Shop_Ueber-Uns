@@ -5,8 +5,4 @@ body{
   color: white;
   margin-left: 40px;
 }
-#textli{
-  color: white;
-  margin-left: 40px;
-}
-#textli a:link{color:white;}
+#text a:link{color:white;}
